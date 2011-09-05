@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>HelloAspectsJBoss</name>
+	<name>hello-aspects-jboss</name>
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
+			<name>hello-aspects-jboss</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
